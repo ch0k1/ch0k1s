@@ -216,7 +216,7 @@ body {
 }
 
 #slide-1 {
-	background-image: url('../images/ch0k1/10286148_886607991353066_1706132608_o.jpg');
+	background-image: url('../img/ch0k1/6.jpg');
 	color: #ffffff;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -535,7 +535,7 @@ body {
 }
 
 .zoom {
-	background-image: url('../images/zoom.png');
+	background-image: url('../img/zoom.png');
 	background-position: center center;
 	background-repeat: no-repeat;
 	height: 100%;
@@ -556,7 +556,7 @@ body {
 }
 
 #arrows div {
-	background-image: url('../images/website-arrows.png');
+	background-image: url('../img/website-arrows.png');
 	cursor: pointer;
 	height: 30px;
 	position: absolute;
