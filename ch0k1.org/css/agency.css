@@ -61,7 +61,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #e3e4e5;
 }
 
 .bg-darkest-gray {
@@ -331,6 +331,7 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
+    color: #FFFFFF;
     margin-bottom: 75px;
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -647,8 +648,8 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
-aside.clients img {
-    margin: 50px auto;
+aside.clients .requirements img {
+
 }
 
 section#contact {
@@ -859,6 +860,10 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #fed136;
+}
+
+section#team .section-subheading {
+    color: #000000;
 }
 
 #team img {
