@@ -6,7 +6,7 @@
  * Version: 1.0
  * URL: http://blacktie.co
  */
- 
+
 .font-thin {
 	font-family: "Titillium Web", sans-serif;
 	font-weight: 200;
@@ -52,14 +52,14 @@ body {
 
 .navbar {
 	background-color: #e4e6e5;
-	background-color: rgba( 228, 230, 229, .85 );
+	background-color: rgba(228, 230, 229, .85);
 	border-bottom: 0 none;
 	font-size: 12px;
 	transition: .25s all linear;
 }
 
 .navbar.inv {
-	background-color: rgba( 0, 0, 0, .5 );
+	background-color: rgba(0, 0, 0, .5);
 	border-bottom: 1px solid #bfbfbf;
 }
 
@@ -73,7 +73,6 @@ body {
 .navbar.inv a {
 	color: #e4e6e5;
 }
-
 
 .navbar-responsive-collapse {
 	margin: 0 auto;
@@ -137,8 +136,13 @@ body {
 	background-color: #e67e22 !important;
 }
 
-:focus {outline:none;}
-::-moz-focus-inner {border:0;}
+:focus {
+	outline: none;
+}
+
+::-moz-focus-inner {
+	border: 0;
+}
 
 .slide {
 	background-position: center center;
@@ -151,17 +155,17 @@ body {
 #slide-1 {
 	background-image: url('../img/ch0k1/6.jpg');
 	color: #ffffff;
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	min-height: 800px;
-    width: 100%;
+	width: 100%;
 	background-position: center center;
 }
 
@@ -294,10 +298,9 @@ i {
 }
 
 #slide-4 i {
-		font-size: 80px;
-		color: white;
-	}
-
+	font-size: 80px;
+	color: white;
+}
 
 #slide-5 {
 	background-color: #f39c12;
@@ -326,7 +329,6 @@ i {
 	outline: none;
 	text-decoration: none;
 }
-
 
 #contact-row-4 {
 	padding-top: 125px;
@@ -365,7 +367,7 @@ i {
 }
 
 #lightbox-out {
-	background-color: rgba( 0, 0, 0, 0.7 );
+	background-color: rgba(0, 0, 0, 0.7);
 	height: 100%;
 	position: fixed;
 	width: 100%;
@@ -466,7 +468,7 @@ i {
 		white-space: nowrap;
 	}
 
-	.navbar-responsive-collapse  {
+	.navbar-responsive-collapse {
 		width: 100%;
 	}
 
@@ -519,7 +521,7 @@ i {
 		text-align: left;
 	}
 
-	.with-hover-text{
+	.with-hover-text {
 		margin-bottom: 2em;
 		margin-top: 1em;
 	}
