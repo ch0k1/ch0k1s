@@ -298,7 +298,7 @@ section.success {
 	margin: 0;
 	font-size: .85em;
 	line-height: 1.764705882em;
-	vertical-align: middle;
+	//vertical-align: middle;
 	vertical-align: baseline;
 	opacity: 0;
 	-webkit-transition: top .3s ease, opacity .3s ease;
@@ -307,7 +307,7 @@ section.success {
 	transition: top .3s ease, opacity .3s ease;
 }
 
-.floating-label-form-group::not(:first-child) {
+.floating-label-form-group:not(:first-child) {
 	padding-left: 14px;
 	border-left: 1px solid #eee;
 }
@@ -442,4 +442,10 @@ footer .footer-below {
 	-webkit-transform: rotate(90deg);
 	-ms-transform: rotate(90deg);
 	transform: rotate(90deg);
+}
+
+/* ch0k1 */
+
+#orgTitle {
+	text-transform: none;
 }
