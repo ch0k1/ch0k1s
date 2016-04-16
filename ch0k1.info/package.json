@@ -1,0 +1,14 @@
+{
+  "name": "ch0k1.info",
+  "version": "0.0.1",
+  "description": "\u0016Main project for http://ch0k1.info",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ch0k1.info"
+  ],
+  "author": "ch0k1",
+  "license": "MIT"
+}
