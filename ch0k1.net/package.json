@@ -1,0 +1,17 @@
+{
+  "name": "ch0k1.net",
+  "version": "0.0.1",
+  "description": "Main project for http://ch0k1.net",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ch0k1.net"
+  ],
+  "author": "ch0k1",
+  "license": "MIT",
+  "dependencies": {
+    "dygraphs": "^1.1.1"
+  }
+}
